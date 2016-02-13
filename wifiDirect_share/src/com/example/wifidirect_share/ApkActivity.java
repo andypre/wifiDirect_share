@@ -23,6 +23,7 @@ public class ApkActivity extends ListActivity {
 	private List<ApplicationInfo> applist = null;
 	private ApplicationAdapter listadaptor = null;
 	
+	
     private String host_info; 
 	
 	@Override
