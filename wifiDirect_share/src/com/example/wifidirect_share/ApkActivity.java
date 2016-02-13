@@ -25,6 +25,7 @@ public class ApkActivity extends ListActivity {
 	
 	
     private String host_info; 
+    
 	
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
